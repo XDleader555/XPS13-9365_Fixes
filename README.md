@@ -64,3 +64,8 @@ setup_var SaSetup 0xE3 0x0
 If the top barrel button on your active pen defaults to hover clicks on reboot, import this registry file to permanently disable it. This prevents accidental right clicks when trying to make selections apps like OneNote.
 
 It is recommended you install the [Dell Active Pen App](https://www.dell.com/support/home/au/en/audhs1/drivers/driversdetails?driverid=56dt7&oscode=wt64a&productcode=dell-active-pen-pn557w) for full configuration.
+
+## Drivers
+[Intel Rapid Storage Technology Driver](https://downloadcenter.intel.com/download/29094/Intel-Rapid-Storage-Technology-Intel-RST-User-Interface-and-Driver?product=99745)
+
+Download SetupRST.exe. Replaces the Standard NVM Express Controller Microsoft Driver.
