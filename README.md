@@ -69,3 +69,10 @@ It is recommended you install the [Dell Active Pen App](https://www.dell.com/sup
 [Intel Rapid Storage Technology Driver](https://downloadcenter.intel.com/download/29094/Intel-Rapid-Storage-Technology-Intel-RST-User-Interface-and-Driver?product=99745)
 
 Download SetupRST.exe. Replaces the Standard NVM Express Controller Microsoft Driver.
+
+## Reset Bios
+In the event that your computer will no longer boot due to hidden bios options, you can [reset the real time clock (RTC)](https://www.dell.com/support/article/us/en/19/sln304892/how-to-reset-real-time-clock-rtc-to-recover-your-dell-portable-system?lang=en) which will also clear all bios settings.
+
+- Plug in the charger and power off the laptop.
+- Hold the power button longer than 30 seconds, but less than 40 seconds. The computer may boot into the operating system during this time.
+- Release the power button and wait a few minutes until the laptop starts normally.
